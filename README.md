@@ -3,4 +3,5 @@ This project analyze sentiment using the XLM-T-Sent model and visualize the sent
 
 
 Acknowledgments
+
 This project uses the XLM-T-Sent model from Cardiff NLP (https://huggingface.co/cardiffnlp). Special thanks to the authors of the paper "Negativity spreads faster" for providing the annotated data and methodology (https://github.com/cardiffnlp/politics-and-virality-twitter) 
