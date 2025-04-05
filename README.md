@@ -3,6 +3,9 @@
 This project replicates the sentiment analysis from the paper “Negativity spreads faster: A large-scale multilingual twitter analysis on the role of sentiment in political communication.” Using datasets from multiple countries. 
 This project analyze sentiment using the XLM-T-Sent model and visualize the sentiment distribution of political tweets from MPs.
 
+## Data
+
+The data/ folder contains all tweets labelled for each language (en_combines.csv, es_combines.csv, gr_combined.csv) from https://github.com/cardiffnlp/politics-and-virality-twitter
 
 ## Acknowledgments
 
