@@ -1,3 +1,5 @@
+### Replication of XLM-T-Sent for Political Sentiment Analysis
+
 ## About
 
 This project replicates the sentiment analysis from the paper “Negativity spreads faster: A large-scale multilingual twitter analysis on the role of sentiment in political communication.” Using datasets from multiple countries. 
