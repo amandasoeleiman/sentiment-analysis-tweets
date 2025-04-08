@@ -1,4 +1,4 @@
-### Replication of XLM-T-Sent for Political Sentiment Analysis
+# Replication of XLM-T-Sent for Political Sentiment Analysis
 
 ## About
 
